@@ -1,7 +1,3 @@
-<h1 align="center"><b>Razorpod - We Shape Brand Stories</h1>
-
----
-
 <div style="style="display:inline-block; padding:0px 0px 15px 0px;" align="center">
     <a href="https://github.com/razorpodx" target="_blank"><center><img style="height:45%; width:100%; cursor: pointer; margin-top:15px;" src="https://razorpod.in/storage/img/full-logo.png"></a>
 </div>
