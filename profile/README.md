@@ -12,7 +12,7 @@
 <div style="style="display:inline-block; padding:0px 0px 15px 0px;" align="center">
     <a href="https://github.com/razorpodx" target="_blank"><center><img style="height:45%; width:80%; cursor: pointer; margin-top:15px;" src="https://skillicons.dev/icons?i=typescript,js,nodejs,express,html,css,git,mongodb,redis"></a>
     <a href="https://github.com/razorpodx" target="_blank"><center><img style="height:45%; width:80%; cursor: pointer; margin-top:15px;" src="https://skillicons.dev/icons?i=php,figma,mysql,jquery,github,aws,prisma,postman,regex"></a>
-    <a href="https://github.com/razorpodx" target="_blank"><center><img style="height:45%; width:80%; cursor: pointer; margin-top:15px;" src="https://skillicons.dev/icons?i=nuxt,postgres,strapi,handlebars,pug,sass"></a>
+    <a href="https://github.com/razorpodx" target="_blank"><center><img style="height:45%; width:80%; cursor: pointer; margin-top:15px;" src="https://skillicons.dev/icons?i=nuxtjs,postgres,pug,sass,vscode,nginx,md"></a>
 </div>
 
 ---
